@@ -1,6 +1,6 @@
 # Ghostery (Fire Fox) & Git Hub Repository
 
-## I have found that, when Gohstery is active, the commit button is grayed out. 
+## I have found that, when Ghostery is active, the commit button is grayed out. 
 
 #### Commit botton Ghostery disabled.
 
