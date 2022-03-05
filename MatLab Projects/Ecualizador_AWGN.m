@@ -46,6 +46,6 @@ figure;
 plot(W, 20*log(abs(H_c)/max(abs(H_c))),'g'); hold on;
 plot(W, 20*log(abs(H_eq)/max(abs(H_eq))),'r'); 
 plot(W, 20*log(abs(H_sys)/max(abs(H_sys))),'k'); 
-title('Respuesta del ecualizador')
-xlabel('Frecuencia')
-ylabel('Magnitud(dB) Normalizada')
+title('Equalizer response')
+xlabel('Frequency')
+ylabel('Normalized Magnitude(dB)')
