@@ -5,7 +5,6 @@ odd = 0
 n, t = input('Enter the number n:'), input('Enter the letter t:')
 
 
-sd
 def sum_eo(n, t):
 	if t == "e":
 		while i <= n:
@@ -20,4 +19,5 @@ def sum_eo(n, t):
 		print(odd)
 	else :
 
-		print(-1)			
+		print(-1)
+
